@@ -1,3 +1,5 @@
+ ![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/SCJBanner.png)
+ 
  Hi there 👋
 
 
