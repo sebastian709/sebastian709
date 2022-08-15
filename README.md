@@ -5,13 +5,7 @@ _________________________________________________
  I'm self-motivated person seeking for a job in a good organization where my potentials will be fully
 discovered while working for the company dedicatedly
 
-
-_________________________________________________
-
-
-![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/code.gif)
-
-_________________________________________________
+____________________________
 
 About me:
 
@@ -21,4 +15,10 @@ About me:
 -      📱 PhoneNumber: 09977024547
 -      ✉️ Email: sebastianjabson07@gmail.com
 - 🏠 Address: San Fernando, Pampanga
+
+_________________________________________________
+
+
+![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/code.gif)
+
 
