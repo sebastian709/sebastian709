@@ -6,7 +6,7 @@ discovered while working for the company dedicatedly
 
 About me:
 
-- 🔭 I’m currently working on Front-Ends
+- 🔭 I’m currently working on my profile and portfolio
 - 🌱 I’m currently learning some front-ends languages and frameworks
 - 📫 How to reach me: 
 -      📱 PhoneNumber: 09977024547
