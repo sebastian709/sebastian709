@@ -8,7 +8,8 @@ discovered while working for the company dedicatedly
 
 _________________________________________________
 
-![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/giphy1.gif)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/giphy1.gif)
 
 _________________________________________________
 
