@@ -2,13 +2,13 @@
 
 _________________________________________________
 
- I'm a self-motivated person seeking for a job in a good organization where my potentials will be fully
+ I'm self-motivated person seeking for a job in a good organization where my potentials will be fully
 discovered while working for the company dedicatedly
 
 
 _________________________________________________
 
-<!-- ![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/giphy.gif) -->
+![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/giphy1.gif)
 
 _________________________________________________
 
