@@ -25,4 +25,13 @@ _________________________________________________
 
 _______________________________
 
-<font size="50"> This is my text number 6</font>
+Skills: 
+
+- 🧮 Problem Solving
+- 👁️ Accuracy and attention details
+- 👥 Teamwork Skills
+- 💻 Self-development skills to keep up to date with fast-changing
+trends
+- ⌚ time management skills
+
+_______________________
