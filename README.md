@@ -35,3 +35,17 @@ trends
 - ⌚ time management skills
 
 _______________________
+
+Interest:
+
+- 🤖 Programming
+- 🖌️ Art
+- 📔 Designing
+- 📚 Reading
+- 🧠 Mindfulness
+- 🌏 Web Designing
+- 🦾 Animation
+- 🖼️ Photo Editing
+- 🎞️ Video Editing
+
+______________________
