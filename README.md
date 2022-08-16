@@ -57,3 +57,7 @@ ______________________
 ![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Ciras.PNG)
 
 Crime Information Reporting and Analysis System
+
+The Crime Information and Reporting Analysis System is one of the solution for the Philippine National Police of Santo Tomas Pampanga and the victims or the residents. The system will make the work easy and efficient and decrease the number of unreported crime by creating an online system which the complainant doesn’t need to go to the police station. It will also help the police to quickly take action to a crime as soon as possible by providing a map of the locality in which they can view and analyze the place where crimes mostly took place. This will also alert and update residents regarding the missing, most wanted and other status with the system. To sum it up the crime information reporting and analysis system will give a solution to the police of Santo Tomas Pampanga and the complainant of the community in better and structured way of managing the crime.
+
+_____________________________________________________________
