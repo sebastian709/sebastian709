@@ -88,6 +88,6 @@ Link: https://www.figma.com/proto/58G9sQxn2z7poMP3LtvAQ4/SCJ-Ecommerce?node-id=1
 
 ____________________________________________________________
 
-![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Thanks.gif)
+![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Thanksrz.gif)
 
 ____________________________________________________________
