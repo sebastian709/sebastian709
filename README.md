@@ -25,4 +25,4 @@ _________________________________________________
 
 _______________________________
 
-<font size="6"> This is my text number 6</font>
+<font size="50"> This is my text number 6</font>
