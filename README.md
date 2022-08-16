@@ -78,7 +78,7 @@ Is a system with a service facility where units of some kind (generally referred
 
 _____________________________________________________________
 
-![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/EcommerceFigma.PNG)
+![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/EcommerceFigma.png)
 
 Ecommerce Web design using Figma
 
