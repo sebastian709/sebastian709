@@ -1,4 +1,4 @@
- ![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/SCJBanner.png)
+ ![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/SCJBanner.png)
 
 _________________________________________________
 
@@ -20,7 +20,7 @@ About me:
 _________________________________________________
 
 
-![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/code.gif)
+![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/code.gif)
 
 
 _______________________________
