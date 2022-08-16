@@ -87,3 +87,7 @@ This Web design i created it using figma since I want to create my own ecommerce
 Link: https://www.figma.com/proto/58G9sQxn2z7poMP3LtvAQ4/SCJ-Ecommerce?node-id=102%3A13&scaling=min-zoom&page-id=0%3A1
 
 ____________________________________________________________
+
+![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Thanks.gif)
+
+____________________________________________________________
