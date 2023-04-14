@@ -2,9 +2,7 @@
 
 _________________________________________________
 
- I'm self-motivated person seeking for a job in a good organization where my potentials will be fully
-discovered while working for the company dedicatedly
-
+ I'm passionate about building engaging and functional web applications that enhance the user experience and deliver measurable results. Whether you need a new website, a custom web application, or an e-commerce platform, I can work with you to bring your vision to life and elevate your online presence.
 ____________________________
 
 About me:
