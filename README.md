@@ -1,4 +1,4 @@
-<!-- ![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/SCJBannerV2.png) -->
+![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/SCJBannerV3.png)
 
 ## 🚀 My Tech Stack
 
