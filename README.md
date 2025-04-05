@@ -1,91 +1,70 @@
- ![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/SCJBannerV2.png)
+![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/SCJBannerV2.png)
 
-_________________________________________________
+## 👋 About Me
 
- I'm passionate about building engaging and functional web applications that enhance the user experience and deliver measurable results. Whether you need a new website, a custom web application, or an e-commerce platform, I can work with you to bring your vision to life and elevate your online presence.
-____________________________
+I'm driven by a passion for creating dynamic, user-friendly web applications that not only look great but also deliver real results. I'm also deeply interested in software development and mobile app development, constantly exploring new technologies to build efficient and impactful solutions. Whether it’s a brand-new website, a custom web app, or a full-featured e-commerce platform, I’m here to help bring your ideas to life and boost your online presence.
 
-About me:
-
-- 🔭 I’m currently working on my profile and portfolio
-- 🌱 I’m currently learning some front-ends languages and frameworks
-- 🌏 sebastian709.github.io
-- 📫 How to reach me: 
--      📱 PhoneNumber: 09977024547
--      ✉️ Email: sebastianjabson07@gmail.com
-- 🏠 Address: San Fernando, Pampanga
-
-_________________________________________________
-
+---
 
 ![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/code.gif)
 
+---
 
-_______________________________
+## 🚀 My Tech Stack
 
-Skills: 
+### 🧑‍💻 Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-- 🧮 Problem Solving
-- 👁️ Accuracy and attention details
-- 👥 Teamwork Skills
-- 💻 Self-development skills to keep up to date with fast-changing
-trends
-- ⌚ time management skills
+### 🧰 Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-_______________________
+### 🧱 Tools & Platforms
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-Interest:
+### 💻 IDEs & Design
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-- 🤖 Programming
-- 🖌️ Art
-- 📔 Designing
-- 📚 Reading
-- 🧠 Mindfulness
-- 🌏 Web Designing
-- 🦾 Animation
-- 🖼️ Photo Editing
-- 🎞️ Video Editing
+---
 
-______________________
+## 🧩 My Previous Projects
 
-My Previous Project
+### 📌 Crime Information Reporting and Analysis System  
+![CIRAS](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Ciras.PNG)  
+A system built for the Philippine National Police in Santo Tomas, Pampanga. It allows residents to report crimes online, helps police analyze high-crime areas via maps, and alerts the community about wanted individuals or missing persons — streamlining the crime reporting process and improving response time.
 
-______________________
+---
 
-![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Ciras.PNG)
+### 📌 Relay Analytics  
+![Relay](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Relay.PNG)  
+Due to a signed NDA, I cannot disclose specific information. My main contribution was front-end design using Bootstrap in a Laravel environment.
 
-Crime Information Reporting and Analysis System
+---
 
-The Crime Information and Reporting Analysis System is one of the solution for the Philippine National Police of Santo Tomas Pampanga and the victims or the residents. The system will make the work easy and efficient and decrease the number of unreported crime by creating an online system which the complainant doesn’t need to go to the police station. It will also help the police to quickly take action to a crime as soon as possible by providing a map of the locality in which they can view and analyze the place where crimes mostly took place. This will also alert and update residents regarding the missing, most wanted and other status with the system. To sum it up the crime information reporting and analysis system will give a solution to the police of Santo Tomas Pampanga and the complainant of the community in better and structured way of managing the crime.
+### 📌 Res-Queue  
+![Resqueue](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Resqueue.PNG)  
+A queuing system that handles multiple customer requests by organizing service queues when the demand exceeds capacity — improving service flow and wait time management.
 
-_____________________________________________________________
+---
 
-![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Relay.PNG)
+### 📌 E-Commerce Web Design (Figma)  
+![Figma](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/EcommerceFigma.png)  
+A full e-commerce UI design created in Figma as a personal project and concept for launching my own online store.  
+🔗 [View on Figma](https://www.figma.com/proto/58G9sQxn2z7poMP3LtvAQ4/SCJ-Ecommerce?node-id=102%3A13&scaling=min-zoom&page-id=0%3A1)
 
-Relay Analytics
+---
 
-As I sign a non-disclosure agreement I agree not to disclose confidential information that they have shared. But my contribution in this relay app is I'm assigned to do a front-end design using bootstrap in laravel.
-
-______________________________________________________________
-
-![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Resqueue.PNG)
-
-Res-Queue
-
-Is a system with a service facility where units of some kind (generally referred to as "customers") arrive for service. whenever there are more units in the system than the service facility can handle concurrently, a queue (or waiting line) forms.
-
-_____________________________________________________________
-
-![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/EcommerceFigma.png)
-
-Ecommerce Web design using Figma
-
-This Web design i created it using figma since I want to create my own ecommerce store so I started it using figma
-
-Link: https://www.figma.com/proto/58G9sQxn2z7poMP3LtvAQ4/SCJ-Ecommerce?node-id=102%3A13&scaling=min-zoom&page-id=0%3A1
-
-____________________________________________________________
-
-![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Thanksrz.gif)
-
-____________________________________________________________
+![Thanks](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Thanksrz.gif)
