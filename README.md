@@ -1,4 +1,6 @@
+<hr style="border-color: #65F074; border-width: 2px;">
 ![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/SCJBannerV3.png)
+<hr style="border-color: #65F074; border-width: 2px;">
 
 ## 🚀 My Tech Stack
 
@@ -46,18 +48,18 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
----
+<hr style="border-color: #65F074; border-width: 2px;">
 
 
 ## 👋 About Me
 
 I'm driven by a passion for creating dynamic, user-friendly web applications that not only look great but also deliver real results. I'm also deeply interested in software development and mobile app development, constantly exploring new technologies to build efficient and impactful solutions. Whether it’s a brand-new website, a custom web app, or a full-featured e-commerce platform, I’m here to help bring your ideas to life and boost your online presence.
 
----
+<hr style="border-color: #65F074; border-width: 2px;">
 
 ![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/code.gif)
 
----
+<hr style="border-color: #65F074; border-width: 2px;">
 
 
 
@@ -68,25 +70,25 @@ I'm driven by a passion for creating dynamic, user-friendly web applications tha
 ![CIRAS](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Ciras.PNG)  
 A system built for the Philippine National Police in Santo Tomas, Pampanga. It allows residents to report crimes online, helps police analyze high-crime areas via maps, and alerts the community about wanted individuals or missing persons — streamlining the crime reporting process and improving response time.
 
----
+<hr style="border-color: #65F074; border-width: 2px;">
 
 ### 📌 Relay Analytics  
 ![Relay](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Relay.PNG)  
 Due to a signed NDA, I cannot disclose specific information. My main contribution was front-end design using Bootstrap in a Laravel environment.
 
----
+<hr style="border-color: #65F074; border-width: 2px;">
 
 ### 📌 Res-Queue  
 ![Resqueue](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Resqueue.PNG)  
 A queuing system that handles multiple customer requests by organizing service queues when the demand exceeds capacity — improving service flow and wait time management.
 
----
+<hr style="border-color: #65F074; border-width: 2px;">
 
 ### 📌 E-Commerce Web Design (Figma)  
 ![Figma](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/EcommerceFigma.png)  
 A full e-commerce UI design created in Figma as a personal project and concept for launching my own online store.  
 🔗 [View on Figma](https://www.figma.com/proto/58G9sQxn2z7poMP3LtvAQ4/SCJ-Ecommerce?node-id=102%3A13&scaling=min-zoom&page-id=0%3A1)
 
----
+<hr style="border-color: #65F074; border-width: 2px;">
 
 ![Thanks](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/Thanksrz.gif)
