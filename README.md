@@ -1,14 +1,4 @@
-![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/SCJBannerV2.png)
-
-## 👋 About Me
-
-I'm driven by a passion for creating dynamic, user-friendly web applications that not only look great but also deliver real results. I'm also deeply interested in software development and mobile app development, constantly exploring new technologies to build efficient and impactful solutions. Whether it’s a brand-new website, a custom web app, or a full-featured e-commerce platform, I’m here to help bring your ideas to life and boost your online presence.
-
----
-
-![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/code.gif)
-
----
+<!-- ![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/SCJBannerV2.png) -->
 
 ## 🚀 My Tech Stack
 
@@ -57,6 +47,18 @@ I'm driven by a passion for creating dynamic, user-friendly web applications tha
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
 ---
+
+
+## 👋 About Me
+
+I'm driven by a passion for creating dynamic, user-friendly web applications that not only look great but also deliver real results. I'm also deeply interested in software development and mobile app development, constantly exploring new technologies to build efficient and impactful solutions. Whether it’s a brand-new website, a custom web app, or a full-featured e-commerce platform, I’m here to help bring your ideas to life and boost your online presence.
+
+---
+
+![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/code.gif)
+
+---
+
 
 
 
