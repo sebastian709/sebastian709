@@ -1,5 +1,3 @@
-<hr style="border-color: #65F074; border-width: 2px;">
----
 ![Sebastian on SCJ](https://raw.githubusercontent.com/sebastian709/sebastian709/main/images/SCJBannerV3.png)
 <hr style="border-color: #65F074; border-width: 2px;">
 ---
